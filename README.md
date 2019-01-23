@@ -1,4 +1,4 @@
-# Switch ゼノブレイド2 黄金の国イーラ SXOS Cheat
+# Switch ゼノブレイド2 黄金の国イーラ Ver.1.0.2 SXOS Cheat
 by 露易娘 Ruimusume</br>
 日站博客：http://ruimusume.blog.jp/</br>
 微博：https://weibo.com/ruisan</br>
@@ -6,6 +6,9 @@ by 露易娘 Ruimusume</br>
 Switch Xenoblade Chronicles 2: Torna - The Golden Country SXOS Cheat</br>
 Switch ゼノブレイド2 黄金の国イーラ SXOS チートコード</br>
 Switch 异度之刃2 黄金之国伊拉 SXOS 金手指
+
+TID:0100C9F009F7A000</br>
+BID:56246a89466a791b
 
 黄金之国伊拉的战斗系统和XB2的战斗系统有所不同，但是程序还是同一个框架。</br>
 这里的HP数值是按照队伍来计算，所以游戏总队伍就3个</br>
