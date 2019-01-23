@@ -30,4 +30,4 @@ HP位置开始+3500=下一个队伍的位置</br>
 
 <strong>※不能跨角色技能到其他角色上用，发招时候当没按到似的。</strong>
 
-<img src="https://i.imgur.com/CaEjfk4.jpg" alt="ゼノブレイド2 黄金の国イーラ"/>
+<img src="https://i.imgur.com/HgM9Nv4.jpg" alt="ゼノブレイド2 黄金の国イーラ"/>
