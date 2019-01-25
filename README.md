@@ -6,7 +6,7 @@ by 露易娘 Ruimusume</br>
 Switch Xenoblade Chronicles 2: Torna - The Golden Country SXOS Cheats</br>
 Switch ゼノブレイド2 黄金の国イーラ SXOS チートコード</br>
 Switch 异度之刃2 黄金之国伊拉 SXOS 金手指
-
+<img src="https://i.imgur.com/cMFuVDJ.jpg" alt="Xenoblade Chronicles 2: Torna - The Golden Country"/>
 TID:0100C9F009F7A000</br>
 BID:56246a89466a791b
 
