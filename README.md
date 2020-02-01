@@ -1,6 +1,6 @@
 # Switch ゼノブレイド2 黄金の国イーラ Ver.1.0.2 SXOS Cheats
 by 露易娘 Ruimusume</br>
-日站博客：http://ruimusume.blog.jp/</br>
+日站博客：http://ruisan.blog.jp/</br>
 微博：https://weibo.com/ruisan</br>
 
 Switch Xenoblade Chronicles 2: Torna - The Golden Country SXOS Cheats</br>
